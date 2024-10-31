@@ -56,7 +56,7 @@ li {
   color: white;
 }
 
-.hero-section .left {
+.hero-section .hero-text {
   display: flex;
   flex-direction: column;
   gap: 16px;
@@ -67,7 +67,7 @@ li {
   font-weight: 900;
 }
 
-.left button {
+.hero-text button {
   background-color: #3882F6;
   color: white;
   border: none;
@@ -105,7 +105,7 @@ li {
   margin-bottom: 36px;
 }
 
-.infobox-container {
+.info-card-container {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -115,7 +115,7 @@ li {
   width: 100%;
 }
 
-.infobox {
+.info-card {
   width: 200px;
 }
 
@@ -135,7 +135,7 @@ li {
   background-color: #E5E7EB;
 }
 
-.quote {
+.quote-text {
   font-size: 36px;
   font-weight: 200;
   font-style: italic;
